@@ -11,7 +11,7 @@
 
 [Entropy Ratio Clipping as a Soft Global Constraint for Stable Reinforcement Learning](https://arxiv.org/pdf/2512.05591)
 
-
+[CE-GPPO: Coordinating Entropy via Gradient-Preserving Clipping Policy Optimization in Reinforcement Learning](https://arxiv.org/pdf/2509.20712)
 
 # 训推不一致
 
