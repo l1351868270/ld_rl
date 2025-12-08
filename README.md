@@ -9,6 +9,10 @@
 
 [BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via Balanced Policy Optimization with Adaptive Clipping](https://arxiv.org/pdf/2510.18927)
 
+[Entropy Ratio Clipping as a Soft Global Constraint for Stable Reinforcement Learning](https://arxiv.org/pdf/2512.05591)
+
+
+
 # 训推不一致
 
 [Your Efficient RL Framework Secretly Brings You Off-Policy RL Training](https://fengyao.notion.site/off-policy-rl#245721e3f6c4802fa3ffce687eef2d0a)
