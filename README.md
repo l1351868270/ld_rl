@@ -27,5 +27,12 @@
 
 [Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](https://arxiv.org/pdf/2510.11370)
 
+# 优化
+
+[Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
+
+[Last Iterate of SGD Converges (Even in Unbounded Domains)](https://parameterfree.com/2020/08/07/last-iterate-of-sgd-converges-even-in-unbounded-domains/)
+
+
 # 参考书
 []
