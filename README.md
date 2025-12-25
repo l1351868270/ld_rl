@@ -33,6 +33,9 @@
 
 [Last Iterate of SGD Converges (Even in Unbounded Domains)](https://parameterfree.com/2020/08/07/last-iterate-of-sgd-converges-even-in-unbounded-domains/)
 
+# FP8 训练
+
+[DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437)
 
 # 参考书
 []
