@@ -37,5 +37,12 @@
 
 [DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437)
 
+# 流形
+[SpinQuant: LLM quantization with learned rotations](https://arxiv.org/pdf/2405.16406)
+
+[mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880)
+
+[Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/pdf/2511.13720)
+
 # 参考书
 []
