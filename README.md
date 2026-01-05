@@ -27,6 +27,13 @@
 
 [Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](https://arxiv.org/pdf/2510.11370)
 
+# KL梯度无偏估计
+[Approximating KL Divergence](http://joschu.net/blog/kl-approx.html)
+
+[A Comedy of Estimators: On KL Regularization in RL Training of LLMs](https://www.arxiv.org/pdf/2512.21852)
+
+[On a few pitfalls in KL divergence gradient estimation for RL](https://arxiv.org/pdf/2506.09477)
+
 # 优化
 
 [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
