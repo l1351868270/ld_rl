@@ -44,6 +44,12 @@
 
 [DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437)
 
+[Optimizing Large Language Model Training Using FP4 Quantization](https://arxiv.org/pdf/2501.17116)
+
+[NVFP4 Pretraining: From Theory to Implementation (Part 1)](https://www.radicalnumerics.ai/blog/nvfp4-part1)
+
+[NVFP4 Pretraining: Systems Optimizations (Part 2)](https://www.radicalnumerics.ai/blog/nvfp4-part2)
+
 # 流形
 [SpinQuant: LLM quantization with learned rotations](https://arxiv.org/pdf/2405.16406)
 
