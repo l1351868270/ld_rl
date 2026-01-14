@@ -57,5 +57,8 @@
 
 [Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/pdf/2511.13720)
 
+# 顿悟(grokking)
+[Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
+
 # 参考书
 []
