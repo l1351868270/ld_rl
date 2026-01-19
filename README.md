@@ -62,5 +62,8 @@
 # 顿悟(grokking)
 [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
 
-# 参考书
-[]
+# 策略梯度
+[Group Sequence Policy Optimization](https://arxiv.org/pdf/2507.18071)
+
+[Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem](https://arxiv.org/pdf/2512.24873)
+
