@@ -27,6 +27,8 @@
 
 [Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](https://arxiv.org/pdf/2510.11370)
 
+[The Optimal Token Baseline](https://yingru.notion.site/The-Optimal-Token-Baseline-399211a558b782cfa936014c0d42dfb8)
+
 # KL梯度无偏估计
 [Approximating KL Divergence](http://joschu.net/blog/kl-approx.html)
 
