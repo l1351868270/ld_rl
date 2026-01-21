@@ -52,6 +52,8 @@
 
 [NVFP4 Pretraining: Systems Optimizations (Part 2)](https://www.radicalnumerics.ai/blog/nvfp4-part2)
 
+[SGLang RL x slime: QAT INT4 全流程实现](https://www.notion.so/SGLang-RL-x-slime-QAT-INT4-2ed48757104e8024a788cd4b408d6d7d)
+
 # 流形
 [SpinQuant: LLM quantization with learned rotations](https://arxiv.org/pdf/2405.16406)
 
