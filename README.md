@@ -54,6 +54,10 @@
 
 [SGLang RL x slime: QAT INT4 全流程实现](https://www.notion.so/SGLang-RL-x-slime-QAT-INT4-2ed48757104e8024a788cd4b408d6d7d)
 
+[GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+
+[Getting Memory-bound Kernels to Speed-of-Light](https://github.com/Dao-AILab/quack/blob/main/media/2025-07-10-membound-sol.md)
+
 # 流形
 [SpinQuant: LLM quantization with learned rotations](https://arxiv.org/pdf/2405.16406)
 
