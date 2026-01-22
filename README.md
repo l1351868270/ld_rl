@@ -58,6 +58,8 @@
 
 [Getting Memory-bound Kernels to Speed-of-Light](https://github.com/Dao-AILab/quack/blob/main/media/2025-07-10-membound-sol.md)
 
+[Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow](https://arxiv.org/pdf/2601.14243)
+
 # 流形
 [SpinQuant: LLM quantization with learned rotations](https://arxiv.org/pdf/2405.16406)
 
