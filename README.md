@@ -80,5 +80,12 @@
 # LoRA RL
 [LoRA Without Regret](https://thinkingmachines.ai/blog/lora/#how-much-capacity-is-needed-by-supervised-and-reinforcement-learning)
 
+# 算子
+
+[Learn CUTLASS the hard way!](http://www.kapilsharma.dev/posts/learn-cutlass-the-hard-way/)
+
+[Learn CUTLASS the hard way - part 2!](https://www.kapilsharma.dev/posts/learn-cutlass-the-hard-way-2/)
+
+[CUDA Coalesced Memory Access](https://leimao.github.io/blog/CUDA-Coalesced-Memory-Access/)
 
 
