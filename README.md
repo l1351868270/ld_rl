@@ -29,6 +29,8 @@
 
 [The Optimal Token Baseline](https://yingru.notion.site/The-Optimal-Token-Baseline-399211a558b782cfa936014c0d42dfb8)
 
+[KAT-Coder-V1 Pro 重磅升级，揭秘强化学习训练稳定性关键因素](https://kwaikat.github.io/kwaikat-blog/posts/katcoder_1201/)
+
 # KL梯度无偏估计
 [Approximating KL Divergence](http://joschu.net/blog/kl-approx.html)
 
