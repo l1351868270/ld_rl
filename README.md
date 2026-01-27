@@ -31,6 +31,8 @@
 
 [KAT-Coder-V1 Pro 重磅升级，揭秘强化学习训练稳定性关键因素](https://kwaikat.github.io/kwaikat-blog/posts/katcoder_1201/)
 
+[从 tokenizer 视角来分析 Agentic 多轮训练的复杂性](https://zhuanlan.zhihu.com/p/1917126584806139373)
+
 # KL梯度无偏估计
 [Approximating KL Divergence](http://joschu.net/blog/kl-approx.html)
 
