@@ -84,6 +84,10 @@
 # LoRA RL
 [LoRA Without Regret](https://thinkingmachines.ai/blog/lora/#how-much-capacity-is-needed-by-supervised-and-reinforcement-learning)
 
+[How We Build Trillion Parameter Reasoning RL with 10% GPUs](https://macaron.im/mindlab/research/building-trillion-parameter-reasoning-rl-with-10-gpus)
+
+[Efficient Multi-Adapter LLM Serving via Cross-Model KV-Cache Reuse with Activated LoRA](https://arxiv.org/pdf/2512.17910)
+
 # 算子
 
 [Learn CUTLASS the hard way!](http://www.kapilsharma.dev/posts/learn-cutlass-the-hard-way/)
