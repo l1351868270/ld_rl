@@ -1,3 +1,11 @@
+# PARL(Parallel-Agent Reinforcement Learning)
+
+[Kimi K2.5: Visual Agentic Intelligence](https://www.kimi.com/blog/kimi-k2-5.html)
+
+[Scaling LLM Training: How Parallel-Agent Reinforcement Learning Changes the Game](https://www.ai-daily.news/articles/scaling-llm-training-how-parallel-agent-reinforcement-learni)
+
+
+
 # 梯度爆炸
 [Logit Dynamics in Softmax Policy Gradient Methods](https://arxiv.org/pdf/2506.12912)
 
