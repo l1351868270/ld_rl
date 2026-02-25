@@ -107,4 +107,7 @@
 # misc
 [Heaps do lie: debugging a memory leak in vLLM](https://mistral.ai/news/debugging-memory-leak-in-vllm)
 
+# 分布式
+[MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core](https://arxiv.org/pdf/2504.14960)
+
 
