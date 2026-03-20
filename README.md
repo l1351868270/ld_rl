@@ -43,6 +43,8 @@
 
 [Training-Inference Parity in MoE Models: Where Numerics Drift](https://fireworks.ai/blog/when-faster-not-identical-moe-numerics)
 
+[Stochastic CHAOS: Why Deterministic Inference Kills, and Distributional Variability Is the Heartbeat of Artifical Cognition](https://arxiv.org/pdf/2601.07239)
+
 # KL梯度无偏估计
 [Approximating KL Divergence](http://joschu.net/blog/kl-approx.html)
 
