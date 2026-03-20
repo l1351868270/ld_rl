@@ -41,6 +41,8 @@
 
 [从 tokenizer 视角来分析 Agentic 多轮训练的复杂性](https://zhuanlan.zhihu.com/p/1917126584806139373)
 
+[Training-Inference Parity in MoE Models: Where Numerics Drift](https://fireworks.ai/blog/when-faster-not-identical-moe-numerics)
+
 # KL梯度无偏估计
 [Approximating KL Divergence](http://joschu.net/blog/kl-approx.html)
 
