@@ -114,4 +114,11 @@
 # 分布式
 [MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core](https://arxiv.org/pdf/2504.14960)
 
+# cudagraph
+[Accelerating PyTorch with CUDA Graphs](https://pytorch.org/blog/accelerating-pytorch-with-cuda-graphs/)
+
+[Getting Started with CUDA Graphs](https://developer.nvidia.com/blog/cuda-graphs)
+
+[Effortless CUDA Graphs](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s32082/)
+
 
