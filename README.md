@@ -11,6 +11,8 @@
 
 [SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning](https://arxiv.org/pdf/2509.02479)
 
+[GradLoc：将梯度突刺定位到单个异常词元](https://hy.tencent.com/research/100015?langVersion=zh)
+
 # 熵塌缩
 
 [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/pdf/2505.22617)
