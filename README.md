@@ -110,6 +110,8 @@
 
 [CUDA Coalesced Memory Access](https://leimao.github.io/blog/CUDA-Coalesced-Memory-Access/)
 
+[Getting Memory-bound Kernels to Speed-of-Light](https://github.com/Dao-AILab/quack/blob/main/media/2025-07-10-membound-sol.md)
+
 [Local Memory and Register Spilling](https://developer.download.nvidia.cn/CUDA/training/register_spilling.pdf)
 
 # misc
