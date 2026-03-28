@@ -110,6 +110,8 @@
 
 [CUDA Coalesced Memory Access](https://leimao.github.io/blog/CUDA-Coalesced-Memory-Access/)
 
+[Local Memory and Register Spilling](https://developer.download.nvidia.cn/CUDA/training/register_spilling.pdf0
+
 # misc
 [Heaps do lie: debugging a memory leak in vLLM](https://mistral.ai/news/debugging-memory-leak-in-vllm)
 
