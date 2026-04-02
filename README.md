@@ -120,6 +120,8 @@
 # 分布式
 [MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core](https://arxiv.org/pdf/2504.14960)
 
+[Pipeline Parallelism in SGLang: Scaling to Million-Token Contexts and Beyond](https://www.lmsys.org/blog/2026-01-15-chunked-pipeline/)
+
 # cudagraph
 [Accelerating PyTorch with CUDA Graphs](https://pytorch.org/blog/accelerating-pytorch-with-cuda-graphs/)
 
