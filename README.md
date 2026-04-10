@@ -78,6 +78,8 @@
 
 [Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow](https://arxiv.org/pdf/2601.14243)
 
+[I spent 31 hours on the math behind TurboQuant so you don't have to](https://www.baseten.co/blog/i-spent-31-hours-on-the-math-behind-turboquant-so-you-dont-have-to/#kv-cache-the-problem)
+
 # 流形
 [SpinQuant: LLM quantization with learned rotations](https://arxiv.org/pdf/2405.16406)
 
@@ -128,5 +130,6 @@
 [Getting Started with CUDA Graphs](https://developer.nvidia.com/blog/cuda-graphs)
 
 [Effortless CUDA Graphs](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s32082/)
+
 
 
