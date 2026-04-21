@@ -54,6 +54,8 @@
 
 [On a few pitfalls in KL divergence gradient estimation for RL](https://arxiv.org/pdf/2506.09477)
 
+[The Policy Gradient, Bias, and Variance of OPD](https://yuqianfu.notion.site/policy-gradient-bias-and-variance-of-opd)
+
 # 优化
 
 [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
