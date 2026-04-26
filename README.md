@@ -56,6 +56,8 @@
 
 [The Policy Gradient, Bias, and Variance of OPD](https://yuqianfu.notion.site/policy-gradient-bias-and-variance-of-opd)
 
+[重探 On-Policy Distillation（OPD）：三类典型失败以及修复路径](https://qingkeai.online/archives/revisiting_opd)
+
 # 优化
 
 [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
