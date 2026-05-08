@@ -120,6 +120,8 @@
 
 [Local Memory and Register Spilling](https://developer.download.nvidia.cn/CUDA/training/register_spilling.pdf)
 
+[CuTeDSL at Perplexity](https://research.perplexity.ai/articles/cutedsl-at-perplexity)
+
 # misc
 [Heaps do lie: debugging a memory leak in vLLM](https://mistral.ai/news/debugging-memory-leak-in-vllm)
 
